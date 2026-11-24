@@ -9,7 +9,7 @@
 Estudo na **FATEC** e gosto de explorar desenvolvimento de software, redes, Linux e segurança da informação.
 
 <a href="https://github.com/junior0xd?tab=repositories"><img alt="Repositórios" src="https://img.shields.io/badge/Explorar_repositórios-1E40AF?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img alt="Foco atual: KickTV" src="https://img.shields.io/badge/Foco_atual-KickTV-7C3AED?style=for-the-badge&logo=television&logoColor=white" />
+<a href="https://github.com/junior0xd/KickLeaf-webOS"><img alt="Foco atual: KickLeaf" src="https://img.shields.io/badge/Foco_atual-KickLeaf-7C3AED?style=for-the-badge&logo=television&logoColor=white" /></a>
 
 </div>
 
